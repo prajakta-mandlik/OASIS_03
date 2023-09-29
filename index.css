@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+
+}
+
+.bg-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.temperature-input{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+
+.card-container{
+    padding: 20px;
+
+}
+
+.card-heading{
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.inputs{
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid rgb(155, 155, 155);
+    width: 100px;
+    outline: none;
+    padding: 7px;
+    font-size: 19px;
+}
+
+.dropdown{
+    padding: 10px;
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+    outline: none;
+}
+
+.button{
+    padding: 5px;
+    border: 0;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.answer{
+    border-bottom: 1px solid grey;
+    
+}
