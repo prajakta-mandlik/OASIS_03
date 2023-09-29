@@ -4,7 +4,6 @@ This is the temperature converter website, I created for my internship for Oasis
 It has the functionality to convert degrees to Fahrenheit or Celsius.
 
 Features 📋
-
 ⚡️ Fully Responsive 
 ⚡️ Easy to modify
 
